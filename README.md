@@ -1,4 +1,4 @@
-Hi 👋 My name is Oleg Poteychuk
+Hi 👋 I'm Oleg Poteychuk
 ===============================
 
 Trying to be Android Studio Developer
