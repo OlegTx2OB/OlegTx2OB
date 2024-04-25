@@ -1,7 +1,7 @@
 Hi 👋 I'm Oleg Poteychuk
 ===============================
 
-Trying to be Android Developer
+Android Developer
 -------------------------------------
 
 * 🌍  Based in Belarus (country between Ukraina and Russia)
