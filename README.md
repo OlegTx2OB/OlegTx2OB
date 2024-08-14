@@ -4,9 +4,7 @@ Hi 👋 I'm Oleg Poteychuk
 Android Developer
 -------------------------------------
 
-* 🌍  Based in Belarus (country between Ukraina and Russia)
 * ✉️  [olegtx2ob@gmail.com](mailto:olegtx2ob@gmail.com)
-* 🧠  At the moment (10.2023) I am a 2nd year student at BSUIR, where I studied C and studying C++ and assembly language
 * 👅  English B1
 
 ### Skills
